@@ -1,0 +1,3 @@
+install(FILES o3d_vvcreator.py
+        PERMISSIONS OWNER_EXECUTE OWNER_WRITE OWNER_READ
+        DESTINATION bin)
